@@ -39,3 +39,8 @@ Startup EdTech companies who need a lightweight, easy-to-customize front-end pro
 Portfolio projects for students and job seekers in web development, displaying front-end development skills and the ability to build practical, usable websites.
 Open-source educational repositories where learners contribute free, accessible learning resources.
 Internal company training modules for employee onboarding, skills training, or product learning sessions.
+
+
+![Image](https://github.com/user-attachments/assets/2c69c494-1cd8-423a-a56f-fcae8818d7b7)
+
+![Image](https://github.com/user-attachments/assets/b58f60aa-94bf-4b26-9a4c-79d49391f0ee)
