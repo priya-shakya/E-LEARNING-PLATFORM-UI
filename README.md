@@ -24,7 +24,7 @@ For embedding course videos, the project utilizes YouTube’s iframe embed funct
 The layout for the featured courses uses a CSS Flexbox-based grid system (as implemented in the linked CSS file styles.css), ensuring that the course cards align evenly on larger screens and stack neatly on smaller devices. The color scheme, typography, and spacing are consistently styled to provide a clean, distraction-free environment conducive to online learning.
 At the bottom of the webpage lies the footer section, containing copyright information and developer acknowledgment.
 
-📌 Tools and Technologies Used:
+Tools and Technologies Used:
 HTML5: For structuring the entire webpage and organizing content sections logically using semantic elements.
 CSS3: For styling, layout design, colors, typography, responsiveness, and making the user interface aesthetically appealing.
 YouTube Embed (iframe): To integrate video-based course content directly within the course listing.
